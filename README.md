@@ -18,7 +18,3 @@ Ce projet est un portfolio personnel interactif et moderne développé avec Next
 - Node.js (version 14 ou supérieure)
 - npm (généralement installé avec Node.js)
 - Un éditeur de code (VS Code recommandé)
-
-## 🚀 Installation
-
-1. Clonez ce dépôt :
