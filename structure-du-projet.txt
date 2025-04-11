@@ -1,0 +1,22 @@
+mon-portfolio/
+├── app/
+│   ├── components/
+│   │   ├── layout/
+│   │   ├── sections/
+│   │   ├── ui/
+│   │   └── ...
+│   ├── hooks/
+│   ├── styles/
+│   ├── utils/
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
+├── public/
+│   ├── fonts/
+│   ├── images/
+│   └── ...
+├── .gitignore
+├── next.config.js
+├── package.json
+├── README.md
+└── tsconfig.json

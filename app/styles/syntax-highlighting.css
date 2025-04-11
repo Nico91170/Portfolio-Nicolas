@@ -1,0 +1,19 @@
+/* Ajoutez ces styles pour la coloration syntaxique */
+.token.comment {
+  color: #6272a4;
+}
+.token.string {
+  color: #f1fa8c;
+}
+.token.number {
+  color: #bd93f9;
+}
+.token.keyword {
+  color: #ff79c6;
+}
+.token.function {
+  color: #50fa7b;
+}
+.token.operator {
+  color: #ff79c6;
+}
